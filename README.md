@@ -1,2 +1,8 @@
 # Clustering-Analysis-of-Chinese-Education-Conditions
-Final Project for APSTA-GE 2011 Supervised &amp; Unsupervised Machine Learning, Winter 2019
+This is the code repository for Unsupervised Machine Learning Final Project
+
+Team Member:  
+* Yuan Ding
+* Yuheng Ling
+
+Final report can be found [here](https://github.com/yding-nyu/Clustering-Analysis-of-Chinese-Education-Conditions/blob/master/Project_2.pdf).
